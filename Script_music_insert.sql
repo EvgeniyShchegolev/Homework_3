@@ -5,7 +5,7 @@ insert into musician
 values(2, 'The Offspring');
 
 insert into musician 
-values(3, 'МакSим');
+values(3, 'РњР°РєSРёРј');
 
 insert into musician 
 values(4, 'Bon Jovi');
@@ -17,10 +17,10 @@ insert into musician
 values(6, 'Simple Plan');
 
 insert into musician 
-values(7, 'Ария');
+values(7, 'РђСЂРёСЏ');
 
 insert into musician 
-values(8, 'Юта');
+values(8, 'Р®С‚Р°');
 
 
 
@@ -89,7 +89,7 @@ insert into album
 values(2, 'Americana', 1998);
 
 insert into album
-values(3, 'Мой Рай', 2007);
+values(3, 'РњРѕР№ Р Р°Р№', 2007);
 
 insert into album
 values(4, 'Cross Road', 1994);
@@ -101,10 +101,10 @@ insert into album
 values(6, 'Simple Plan', 2008);
 
 insert into album
-values(7, 'Ночь Короче Дня', 1997);
+values(7, 'РќРѕС‡СЊ РљРѕСЂРѕС‡Рµ Р”РЅСЏ', 1997);
 
 insert into album
-values(8, 'Кстати', 2014);
+values(8, 'РљСЃС‚Р°С‚Рё', 2014);
 
 
 
@@ -141,7 +141,7 @@ insert into collection
 values(2, 'Greatest Hits The Offspring', 2005);
 
 insert into collection 
-values(3, 'Лучшее МакSим', 2010);
+values(3, 'Р›СѓС‡С€РµРµ РњР°РєSРёРј', 2010);
 
 insert into collection 
 values(4, 'Greatest Hits Bon Jovi', 2010);
@@ -153,10 +153,10 @@ insert into collection
 values(6, 'The Best Simple Plan', 2001);
 
 insert into collection 
-values(7, 'Легенда Русского Рока', 1997);
+values(7, 'Р›РµРіРµРЅРґР° Р СѓСЃСЃРєРѕРіРѕ Р РѕРєР°', 1997);
 
 insert into collection 
-values(8, 'Лучшие Песни Юта', 2017);
+values(8, 'Р›СѓС‡С€РёРµ РџРµСЃРЅРё Р®С‚Р°', 2017);
 
 
 
@@ -173,10 +173,10 @@ insert into song
 values(4, 'Want You Bad', '00:03:22', 2);
 
 insert into song 
-values(5, 'Не Отдам', '00:03:07', 3);
+values(5, 'РќРµ РћС‚РґР°Рј', '00:03:07', 3);
 
 insert into song 
-values(6, 'Лучшая Ночь', '00:03:50', 3);
+values(6, 'Р›СѓС‡С€Р°СЏ РќРѕС‡СЊ', '00:03:50', 3);
 
 insert into song 
 values(7, 'It''s My Life', '00:03:43', 4);
@@ -194,16 +194,16 @@ insert into song
 values(11, 'Holding On', '00:05:03', 6);
 
 insert into song 
-values(12, 'Ангельская Пыль', '00:06:00', 7);
+values(12, 'РђРЅРіРµР»СЊСЃРєР°СЏ РџС‹Р»СЊ', '00:06:00', 7);
 
 insert into song 
-values(13, 'Возьми Моё Сердце', '00:04:06', 7);
+values(13, 'Р’РѕР·СЊРјРё РњРѕС‘ РЎРµСЂРґС†Рµ', '00:04:06', 7);
 
 insert into song 
-values(14, 'Хмель И Солод', '00:03:49', 8);
+values(14, 'РҐРјРµР»СЊ Р РЎРѕР»РѕРґ', '00:03:49', 8);
 
 insert into song 
-values(15, 'Любимый Мой', '00:02:34', 8);
+values(15, 'Р›СЋР±РёРјС‹Р№ РњРѕР№', '00:02:34', 8);
 
 
 
